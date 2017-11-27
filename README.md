@@ -19,7 +19,7 @@ by providing a regular expression to select resource names.
 See [Usage](#usage)
 
 
-##Installation:
+## Installation:
 
 [From Source](#srcinstall) | [Windows](#package-for-windows) | [Linux](#linstall)
 
@@ -65,7 +65,7 @@ The other version was built on a fairly modern Debian 4.6.
 3. Make it excecuteable: `chmod u+x  $HOME/resup`
 
 
-##Usage:
+## Usage:
 
     resup [-h] {put,get,list,del} ...
 
